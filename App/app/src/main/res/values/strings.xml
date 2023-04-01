@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App</string>
+    <string-array name="opcoes">
+        <item>Somar</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+        <item>Radiciação</item>
+        <item>Exponenciação</item>
+    </string-array>
+</resources>

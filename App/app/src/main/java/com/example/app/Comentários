@@ -1,0 +1,5 @@
+Comecei a desenvolver o app no dia 29/12/2022 às 09:17 , onde o primeiro erro foi no AndroidManifest,onde ele não estava localizando
+as classes correspondentes as calculadoras , porque eu separei as interfaces das calculadoras em pacotes ,ai eu tive que
+mudar a url do contexto da classe.
+Dia 30/12/2022 às 09:34 finalizei o código correspondente aos cálculos feitos pelas calculadoras , agora iniciarei a programa
+ção do código das telas secundárias conforme constam no enunciado.
